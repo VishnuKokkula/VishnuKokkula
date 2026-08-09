@@ -1,3 +1,5 @@
+👋 Hey there! I'm VishnuTeja Kokkula
+
 # 💫 About Me:
 📊 Turning data into insights with Python, SQL, Excel & Power BI<br>🤖 Exploring the intersection of Data & AI through practical projects<br>🧠 Curious about how AI can make data-driven decisions smarter<br>🌱 Learning, building, and improving one project at a time<br>🎯 Aspiring Data Analyst / AI Professional
 
@@ -6,7 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishnutejakokkula/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishnukokkula04@gmail.com) 
 
 # 🧠 Tech Stack:
-## Technical Skills
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
