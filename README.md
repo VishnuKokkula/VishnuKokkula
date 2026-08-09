@@ -1,7 +1,7 @@
 # *👋 Hey there! I'm VishnuTeja Kokkula*
 
 # 💫 About Me:
-📊 Turning data into insights with Python, SQL, Excel & Power BI<br>🤖 Exploring #*the intersection of Data & AI*# through practical projects<br>🧠 Curious about how AI can make data-driven decisions smarter<br>🌱 Learning, building, and improving one project at a time<br>🎯 Aspiring Data Analyst / AI Professional
+📊 Turning data into insights with Python, SQL, Excel & Power BI<br>🤖 Exploring **the intersection of Data & AI** through practical projects<br>🧠 Curious about how AI can make data-driven decisions smarter<br>🌱 Learning, building, and improving one project at a time<br>🎯 Aspiring Data Analyst / AI Professional
 
 
 ## 🌐 Connect with Me:
