@@ -55,4 +55,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# ⭐ Exploring the intersection of Data & AI through practical projects
+# ⭐*Exploring the intersection of Data & AI through practical projects*
