@@ -1,195 +1,21 @@
-# Hi, I'm Vishnuteja Kokkula
+# 💫 About Me:
+📊 Turning data into insights with Python, SQL, Excel & Power BI<br>🤖 Exploring the intersection of Data & AI through practical projects<br>🧠 Curious about how AI can make data-driven decisions smarter<br>🌱 Learning, building, and improving one project at a time<br>🎯 Aspiring Data Analyst / AI Professional
 
-### Data Analytics & BI | Python | SQL | Excel | Power BI | Tableau
 
-Computer Science graduate focused on Data Analytics, Business Intelligence, and data-driven problem solving.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishnutejakokkula/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishnukokkula04@gmail.com) 
 
-I work with Python, SQL, Excel, Power BI, Tableau, and machine learning to clean data, analyze patterns, build visualizations, and turn technical findings into useful insights.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=VishnuKokkula&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=VishnuKokkula&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=VishnuKokkula&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-My Computer Science background also gives me a foundation in DSA, OOP, DBMS, Computer Networks, and Operating Systems.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=VishnuKokkula&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## About Me
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 🎓 B.Tech in Computer Science & Engineering from Anurag University
-- 📊 Interested in Data Analytics and Business Intelligence
-- 🐍 Working with Python for data analysis and machine learning
-- 🗄️ Building my SQL and database problem-solving skills
-- 📈 Exploring Power BI, Tableau, and Excel for business reporting
-- 🤖 Interested in practical applications of machine learning
-- 🔍 Enjoy working on problems involving data, automation, and intelligent systems
-- 💼 Open to entry-level Data Analyst, Data Analytics, and BI opportunities
-
-## Technical Skills
-
-### Data & Analytics
-- SQL
-- Microsoft Excel
-- Power BI
-- Tableau
-- Pandas
-- NumPy
-- Matplotlib
-- Data Cleaning
-- Exploratory Data Analysis
-- Data Visualization
-
-### Programming
-- Python
-- Java
-- C
-
-### Machine Learning
-- Scikit-learn
-- PyTorch
-- Classification
-- Computer Vision
-- Similarity-based Retrieval
-
-### Development
-- Streamlit
-- HTML
-- CSS
-- JavaScript
-- Git
-- GitHub
-
-### Core Computer Science
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- DBMS
-- Computer Networks
-- Operating Systems
-
-## Featured Projects
-
-### MoreLikeThis — Fashion Visual Search & Styling Assistant
-
-An image-based fashion search application built with Python and PyTorch.
-
-- Used ResNet50 to generate image feature embeddings
-- Used cosine similarity to retrieve visually similar products
-- Built an interactive Streamlit interface
-- Explored recommendation logic using visual information and product metadata
-
-**Tech:** Python, PyTorch, Streamlit, Computer Vision
-
-[View Repository](https://github.com/VishnuKokkula)
-
----
-
-### NetShield — Behavioral IDS Auditor
-
-A machine learning-based tool for evaluating model generalization across different network environments.
-
-- Built a feature pipeline around behavioral network statistics
-- Used Random Forest classification
-- Evaluated performance using balanced accuracy
-- Simulated concept drift through permutation-based auditing
-- Used Joblib to persist trained model artifacts
-
-**Tech:** Python, Scikit-learn, Streamlit, Joblib
-
-[View Repository](https://github.com/VishnuKokkula)
-
----
-
-### Digital Library Application
-
-A responsive digital library interface designed to improve access to structured digital learning resources.
-
-- Built a responsive interface for 100+ book entries
-- Used semantic HTML and grid-based layouts
-- Focused on accessibility and cross-device usability
-- Applied responsive design principles across mobile, tablet, and desktop layouts
-
-**Tech:** HTML, CSS, Responsive Design
-
-[View Repository](https://github.com/VishnuKokkula)
-
----
-
-### Bank Management System
-
-A Java-based application for managing customers, accounts, and transactions.
-
-- Implemented customer and account management
-- Worked with transaction-related operations
-- Applied data structures for efficient data access
-
-**Tech:** Java
-
-[View Repository](https://github.com/VishnuKokkula)
-
-## Experience
-
-### Deloitte Australia — Data Analytics Job Simulation
-
-**Forage | May 2025**
-
-Worked through a simulated analytics consulting project involving:
-
-- Data cleaning
-- Excel-based analysis
-- Tableau dashboards
-- Business insight generation
-- Communicating findings from structured datasets
-
-### UI/UX & Graphic Design Intern
-
-**Next24tech Technology & Services LLP | Jul 2024 – Sep 2024**
-
-Worked on UI/UX projects using Figma and Canva, including responsive interfaces for a smart home application and an e-learning platform.
-
-### Internship Trainee
-
-**NSICLTD | Jun 2022 – Nov 2022**
-
-Worked as an internship trainee. Further project details are available on my LinkedIn profile.
-
-## Certifications
-
-- Data Analytics Essentials — Cisco Networking Academy
-- Deloitte Australia Data Analytics Job Simulation — Forage
-- Data Visualization: Empowering Business with Effective Insights — TATA
-- Cloud Computing Fundamentals — IBM SkillsBuild
-- Python Programming for Beginners: Hands-on — Infosys Springboard
-- C and Data Structures Complete Course — Intellipaat
-
-## Education
-
-**B.Tech — Computer Science & Engineering**  
-Anurag University, Hyderabad  
-2023 – 2026 | GPA: 7.02 / 10
-
-**Diploma — Electronics & Communication Engineering**  
-Government Polytechnic College  
-2020 – 2023 | CGPA: 8.34 / 10
-
-## What I'm Working On
-
-Currently focused on strengthening my practical skills in:
-
-- SQL
-- Python for data analysis
-- Excel
-- Power BI
-- Business intelligence
-- Data visualization
-- Analytics-focused portfolio projects
-
-## Career Interests
-
-I'm currently looking for opportunities in:
-
-- Data Analytics
-- Business Intelligence
-- Data Analysis
-- Analytics Apprenticeships
-- Entry-level Analytics roles
-- Data-focused AI applications
-
-## Connect
-
-- LinkedIn: https://www.linkedin.com/in/vishnutejakokkula/
-- GitHub: https://github.com/VishnuKokkula
-- Email: vishnukokkula04@gmail.com
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
